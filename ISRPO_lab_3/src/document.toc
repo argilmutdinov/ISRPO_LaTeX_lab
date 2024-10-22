@@ -1,0 +1,4 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {0.1}Общее описание библиотеки geometric lib}{2}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Описание исходных файлов библиотеки}{3}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Ссылка на GitHub}{7}{section.0.3}%
